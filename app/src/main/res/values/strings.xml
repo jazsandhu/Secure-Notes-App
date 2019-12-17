@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secure Notes App</string>
+    <string name="errmsg_Login">Please Enter Valid Credentials (admin/admin)</string>
+    <string name="add_note">Add New Note</string>
+</resources>
